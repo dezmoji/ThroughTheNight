@@ -1,4 +1,4 @@
-# Through The Night
+# Through The Night*
 HeroJam 2017 Game
 
 # Credits
@@ -30,3 +30,5 @@ Song: The Waking Nightmare [feat. XXIXI]
 Artitst: Ars Sonor
 
 Retreived From: http://freemusicarchive.org/music/Ars_Sonor/Kroksj/02-The_Waking_Nightmare_feat_XXIXI
+
+*Best played at 1024x768
